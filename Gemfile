@@ -79,5 +79,5 @@ gem 'devise'
 gem "factory_bot_rails"
 gem 'carrierwave', '~> 2.0'
 gem 'figaro'
-
+gem "fog-aws"
 
