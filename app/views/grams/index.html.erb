@@ -4,7 +4,8 @@
 
 <% @grams.each do |gram| %>
   <div class="card">
-    <div class="handle"><%= gram.user.email %></div>
+    <div class="handle">
+      <%= gram.user.email %></div>
 
 <div>
   <%= image_tag gram.picture.url %>
