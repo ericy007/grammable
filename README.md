@@ -30,5 +30,5 @@ To deploy live
 ```
 heroku apps:info
 ```
-Author
+# Author
 [Eric Yabit](https://github.com/ericy007/grammable).
