@@ -11,3 +11,7 @@ An Instagram clone that we built using industry-standard, test-driven developmen
 ```
 bundle install
 ```
+Run the migration:
+```
+rake db:migrate
+```
