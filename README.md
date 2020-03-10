@@ -21,4 +21,12 @@ To run test suite:
 ```
 heroku create APP_NAME
 ```
+Now push it up to Heroku with the following command:
+```
+git push heroku master
 
+```
+To deploy live
+```
+heroku apps:info
+```
