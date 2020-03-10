@@ -15,3 +15,10 @@ Run the migration:
 ```
 rake db:migrate
 ```
+The application should now be running on your localhost.
+# Testing
+To run test suite:
+```
+heroku create APP_NAME
+```
+
